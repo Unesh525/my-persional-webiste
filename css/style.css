@@ -1,11 +1,10 @@
 /***************************************
 ========================================
 
-	Author Name   : Belal Hossain
-	This is HTML5 template
-	Template Name : Ekla Personal Portfolio Template
-	Version: 1.0
 	
+
+
+
 ****************************************
 =======================================/
 
@@ -268,7 +267,7 @@ a:hover{
     margin-bottom: 0;
     width: 100%;
     padding: 20px 0;
-    background: #fff;
+    background: #008000;
     transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
 }
